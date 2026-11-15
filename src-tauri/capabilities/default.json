@@ -1,0 +1,1 @@
+{"$schema":"../gen/schemas/desktop-schema.json","identifier":"desktop","description":"Minimal event access for Scribe Voice windows; OS actions stay in Rust commands.","windows":["main","overlay"],"permissions":["core:default"]}

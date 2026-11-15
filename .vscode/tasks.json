@@ -1,0 +1,9 @@
+{
+  "version":"2.0.0",
+  "tasks":[
+    {"label":"Scribe: desktop dev","type":"shell","command":"npm run desktop:dev","problemMatcher":[],"isBackground":true},
+    {"label":"Scribe: frontend checks","type":"shell","command":"npm run build; npm test","problemMatcher":[]},
+    {"label":"Scribe: native tests","type":"shell","command":"cargo test --manifest-path src-tauri/Cargo.toml","problemMatcher":["$rustc"]},
+    {"label":"Scribe: release installer","type":"shell","command":"npm run desktop:build","problemMatcher":[],"group":"build"}
+  ]
+}

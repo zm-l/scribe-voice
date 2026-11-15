@@ -1,0 +1,39 @@
+{
+  "name": "scribe-voice",
+  "version": "0.1.4",
+  "private": true,
+  "type": "module",
+  "description": "Windows-first global voice input with OpenRouter transcription and optional cleanup",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "dev:hmr": "vite --configLoader runner --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build --configLoader runner",
+    "preview": "vite preview --configLoader runner --host 127.0.0.1",
+    "test": "vitest run --configLoader runner",
+    "test:dev-launcher": "node --test scripts/dev-network.test.mjs",
+    "test:layout": "node --test scripts/layout-css.test.mjs",
+    "tauri": "tauri",
+    "desktop:dev": "node scripts/desktop-dev.mjs",
+    "desktop:build": "tauri build --features custom-protocol",
+    "desktop:build:exe": "tauri build --features custom-protocol --no-bundle",
+    "desktop:build:mvp": "tauri build --features custom-protocol --debug --no-bundle"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.10.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.10.0",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.4.0",
+    "jsdom": "^26.0.0",
+    "typescript": "~5.7.3",
+    "vite": "^6.1.0",
+    "vitest": "^3.0.0"
+  }
+}

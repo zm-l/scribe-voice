@@ -1,0 +1,1655 @@
+{
+  "source": "https://www.loc.gov/standards/iso639-2/ISO-639-2_utf-8.txt",
+  "standard": "ISO-639-1",
+  "generated": "2026-10-31",
+  "languages": [
+    {
+      "code": "ab",
+      "name": "Abkhazian",
+      "aliases": [
+        "Abkhazian",
+        "abkhaze"
+      ]
+    },
+    {
+      "code": "aa",
+      "name": "Afar",
+      "aliases": [
+        "Afar",
+        "afar"
+      ]
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "aliases": [
+        "Afrikaans",
+        "afrikaans"
+      ]
+    },
+    {
+      "code": "ak",
+      "name": "Akan",
+      "aliases": [
+        "Akan",
+        "akan"
+      ]
+    },
+    {
+      "code": "sq",
+      "name": "Albanian",
+      "aliases": [
+        "Albanian",
+        "albanais",
+        "shqip"
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "aliases": [
+        "Amharic",
+        "amharique",
+        "አማርኛ"
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "aliases": [
+        "Arabic",
+        "arabe",
+        "العربية"
+      ]
+    },
+    {
+      "code": "an",
+      "name": "Aragonese",
+      "aliases": [
+        "Aragonese",
+        "aragonais"
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "aliases": [
+        "Armenian",
+        "arménien",
+        "հայերեն"
+      ]
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "aliases": [
+        "Assamese",
+        "assamais",
+        "অসমীয়া"
+      ]
+    },
+    {
+      "code": "av",
+      "name": "Avaric",
+      "aliases": [
+        "Avaric",
+        "avar"
+      ]
+    },
+    {
+      "code": "ae",
+      "name": "Avestan",
+      "aliases": [
+        "Avestan",
+        "avestique"
+      ]
+    },
+    {
+      "code": "ay",
+      "name": "Aymara",
+      "aliases": [
+        "Aymara",
+        "aymara"
+      ]
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani",
+      "aliases": [
+        "Azerbaijani",
+        "azéri",
+        "azərbaycan"
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "aliases": [
+        "Bambara",
+        "bambara",
+        "bamanakan"
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bangla",
+      "aliases": [
+        "Bangla",
+        "Bengali",
+        "bengali",
+        "বাংলা"
+      ]
+    },
+    {
+      "code": "ba",
+      "name": "Bashkir",
+      "aliases": [
+        "Bashkir",
+        "bachkir",
+        "башҡорт"
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "aliases": [
+        "Basque",
+        "basque",
+        "euskara"
+      ]
+    },
+    {
+      "code": "be",
+      "name": "Belarusian",
+      "aliases": [
+        "Belarusian",
+        "biélorusse",
+        "беларуская"
+      ]
+    },
+    {
+      "code": "bi",
+      "name": "Bislama",
+      "aliases": [
+        "Bislama",
+        "bichlamar"
+      ]
+    },
+    {
+      "code": "bs",
+      "name": "Bosnian",
+      "aliases": [
+        "Bosnian",
+        "bosniaque",
+        "bosanski"
+      ]
+    },
+    {
+      "code": "br",
+      "name": "Breton",
+      "aliases": [
+        "Breton",
+        "breton",
+        "brezhoneg"
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian",
+      "aliases": [
+        "Bulgarian",
+        "bulgare",
+        "български"
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "aliases": [
+        "Burmese",
+        "birman",
+        "မြန်မာ"
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "aliases": [
+        "Catalan",
+        "Valencian",
+        "catalan",
+        "valencien",
+        "català"
+      ]
+    },
+    {
+      "code": "ch",
+      "name": "Chamorro",
+      "aliases": [
+        "Chamorro",
+        "chamorro"
+      ]
+    },
+    {
+      "code": "ce",
+      "name": "Chechen",
+      "aliases": [
+        "Chechen",
+        "tchétchène",
+        "нохчийн"
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "aliases": [
+        "Chinese",
+        "chinois",
+        "中文"
+      ]
+    },
+    {
+      "code": "cu",
+      "name": "Church Slavic",
+      "aliases": [
+        "Church Slavic",
+        "Old Slavonic",
+        "Church Slavonic",
+        "Old Bulgarian",
+        "Old Church Slavonic",
+        "slavon d'église",
+        "vieux slave",
+        "slavon liturgique",
+        "vieux bulgare"
+      ]
+    },
+    {
+      "code": "cv",
+      "name": "Chuvash",
+      "aliases": [
+        "Chuvash",
+        "tchouvache",
+        "чӑваш чӗлхи"
+      ]
+    },
+    {
+      "code": "kw",
+      "name": "Cornish",
+      "aliases": [
+        "Cornish",
+        "cornique",
+        "kernewek"
+      ]
+    },
+    {
+      "code": "co",
+      "name": "Corsican",
+      "aliases": [
+        "Corsican",
+        "corse"
+      ]
+    },
+    {
+      "code": "cr",
+      "name": "Cree",
+      "aliases": [
+        "Cree",
+        "cree"
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "Croatian",
+      "aliases": [
+        "Croatian",
+        "croate",
+        "hrvatski"
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "aliases": [
+        "Czech",
+        "tchèque",
+        "čeština"
+      ]
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "aliases": [
+        "Danish",
+        "danois",
+        "dansk"
+      ]
+    },
+    {
+      "code": "dv",
+      "name": "Divehi",
+      "aliases": [
+        "Divehi",
+        "Dhivehi",
+        "Maldivian",
+        "maldivien"
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "aliases": [
+        "Dutch",
+        "Flemish",
+        "néerlandais",
+        "flamand",
+        "Nederlands"
+      ]
+    },
+    {
+      "code": "dz",
+      "name": "Dzongkha",
+      "aliases": [
+        "Dzongkha",
+        "dzongkha",
+        "རྫོང་ཁ"
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "aliases": [
+        "English",
+        "anglais"
+      ]
+    },
+    {
+      "code": "eo",
+      "name": "Esperanto",
+      "aliases": [
+        "Esperanto",
+        "espéranto"
+      ]
+    },
+    {
+      "code": "et",
+      "name": "Estonian",
+      "aliases": [
+        "Estonian",
+        "estonien",
+        "eesti"
+      ]
+    },
+    {
+      "code": "ee",
+      "name": "Ewe",
+      "aliases": [
+        "Ewe",
+        "éwé",
+        "eʋegbe"
+      ]
+    },
+    {
+      "code": "fo",
+      "name": "Faroese",
+      "aliases": [
+        "Faroese",
+        "féroïen",
+        "føroyskt"
+      ]
+    },
+    {
+      "code": "fj",
+      "name": "Fijian",
+      "aliases": [
+        "Fijian",
+        "fidjien"
+      ]
+    },
+    {
+      "code": "tl",
+      "name": "Filipino",
+      "aliases": [
+        "Filipino",
+        "Tagalog",
+        "tagalog"
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "aliases": [
+        "Finnish",
+        "finnois",
+        "suomi"
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "aliases": [
+        "French",
+        "français"
+      ]
+    },
+    {
+      "code": "ff",
+      "name": "Fula",
+      "aliases": [
+        "Fula",
+        "Fulah",
+        "peul",
+        "Pulaar"
+      ]
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "aliases": [
+        "Galician",
+        "galicien",
+        "galego"
+      ]
+    },
+    {
+      "code": "lg",
+      "name": "Ganda",
+      "aliases": [
+        "Ganda",
+        "ganda",
+        "Luganda"
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "aliases": [
+        "Georgian",
+        "géorgien",
+        "ქართული"
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "aliases": [
+        "German",
+        "allemand",
+        "Deutsch"
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "aliases": [
+        "Greek",
+        "Modern Greek (1453-)",
+        "grec moderne (1453-)",
+        "Ελληνικά"
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "Guarani",
+      "aliases": [
+        "Guarani",
+        "guarani"
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "aliases": [
+        "Gujarati",
+        "goudjrati",
+        "ગુજરાતી"
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "Haitian Creole",
+      "aliases": [
+        "Haitian Creole",
+        "Haitian",
+        "haïtien",
+        "créole haïtien"
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "aliases": [
+        "Hausa",
+        "haoussa"
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "aliases": [
+        "Hebrew",
+        "hébreu",
+        "עברית"
+      ]
+    },
+    {
+      "code": "hz",
+      "name": "Herero",
+      "aliases": [
+        "Herero",
+        "herero"
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "aliases": [
+        "Hindi",
+        "hindi",
+        "हिन्दी"
+      ]
+    },
+    {
+      "code": "ho",
+      "name": "Hiri Motu",
+      "aliases": [
+        "Hiri Motu",
+        "hiri motu"
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "aliases": [
+        "Hungarian",
+        "hongrois",
+        "magyar"
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "aliases": [
+        "Icelandic",
+        "islandais",
+        "íslenska"
+      ]
+    },
+    {
+      "code": "io",
+      "name": "Ido",
+      "aliases": [
+        "Ido",
+        "ido"
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "aliases": [
+        "Igbo",
+        "igbo"
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "aliases": [
+        "Indonesian",
+        "indonésien",
+        "Indonesia"
+      ]
+    },
+    {
+      "code": "ia",
+      "name": "Interlingua",
+      "aliases": [
+        "Interlingua",
+        "Interlingua (International Auxiliary Language Association)",
+        "interlingua (langue auxiliaire internationale)",
+        "interlingua"
+      ]
+    },
+    {
+      "code": "ie",
+      "name": "Interlingue",
+      "aliases": [
+        "Interlingue",
+        "Occidental",
+        "interlingue"
+      ]
+    },
+    {
+      "code": "iu",
+      "name": "Inuktitut",
+      "aliases": [
+        "Inuktitut",
+        "inuktitut"
+      ]
+    },
+    {
+      "code": "ik",
+      "name": "Inupiaq",
+      "aliases": [
+        "Inupiaq",
+        "inupiaq"
+      ]
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "aliases": [
+        "Irish",
+        "irlandais",
+        "Gaeilge"
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "aliases": [
+        "Italian",
+        "italien",
+        "italiano"
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "aliases": [
+        "Japanese",
+        "japonais",
+        "日本語"
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "aliases": [
+        "Javanese",
+        "javanais",
+        "Jawa"
+      ]
+    },
+    {
+      "code": "kl",
+      "name": "Kalaallisut",
+      "aliases": [
+        "Kalaallisut",
+        "Greenlandic",
+        "groenlandais",
+        "kalaallisut"
+      ]
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "aliases": [
+        "Kannada",
+        "kannada",
+        "ಕನ್ನಡ"
+      ]
+    },
+    {
+      "code": "kr",
+      "name": "Kanuri",
+      "aliases": [
+        "Kanuri",
+        "kanouri"
+      ]
+    },
+    {
+      "code": "ks",
+      "name": "Kashmiri",
+      "aliases": [
+        "Kashmiri",
+        "kashmiri",
+        "کٲشُر"
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "aliases": [
+        "Kazakh",
+        "kazakh",
+        "қазақ тілі"
+      ]
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "aliases": [
+        "Khmer",
+        "Central Khmer",
+        "khmer central",
+        "ខ្មែរ"
+      ]
+    },
+    {
+      "code": "ki",
+      "name": "Kikuyu",
+      "aliases": [
+        "Kikuyu",
+        "Gikuyu",
+        "kikuyu"
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "aliases": [
+        "Kinyarwanda",
+        "rwanda",
+        "Ikinyarwanda"
+      ]
+    },
+    {
+      "code": "kv",
+      "name": "Komi",
+      "aliases": [
+        "Komi",
+        "kom"
+      ]
+    },
+    {
+      "code": "kg",
+      "name": "Kongo",
+      "aliases": [
+        "Kongo",
+        "kongo"
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "aliases": [
+        "Korean",
+        "coréen",
+        "한국어"
+      ]
+    },
+    {
+      "code": "kj",
+      "name": "Kuanyama",
+      "aliases": [
+        "Kuanyama",
+        "Kwanyama",
+        "kuanyama",
+        "kwanyama"
+      ]
+    },
+    {
+      "code": "ku",
+      "name": "Kurdish",
+      "aliases": [
+        "Kurdish",
+        "kurde",
+        "kurdî (kurmancî)"
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "aliases": [
+        "Kyrgyz",
+        "Kirghiz",
+        "kirghiz",
+        "кыргызча"
+      ]
+    },
+    {
+      "code": "lo",
+      "name": "Lao",
+      "aliases": [
+        "Lao",
+        "lao",
+        "ລາວ"
+      ]
+    },
+    {
+      "code": "la",
+      "name": "Latin",
+      "aliases": [
+        "Latin",
+        "latin"
+      ]
+    },
+    {
+      "code": "lv",
+      "name": "Latvian",
+      "aliases": [
+        "Latvian",
+        "letton",
+        "latviešu"
+      ]
+    },
+    {
+      "code": "li",
+      "name": "Limburgish",
+      "aliases": [
+        "Limburgish",
+        "Limburgan",
+        "Limburger",
+        "limbourgeois"
+      ]
+    },
+    {
+      "code": "ln",
+      "name": "Lingala",
+      "aliases": [
+        "Lingala",
+        "lingala",
+        "lingála"
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "Lithuanian",
+      "aliases": [
+        "Lithuanian",
+        "lituanien",
+        "lietuvių"
+      ]
+    },
+    {
+      "code": "lu",
+      "name": "Luba-Katanga",
+      "aliases": [
+        "Luba-Katanga",
+        "luba-katanga",
+        "Tshiluba"
+      ]
+    },
+    {
+      "code": "lb",
+      "name": "Luxembourgish",
+      "aliases": [
+        "Luxembourgish",
+        "Letzeburgesch",
+        "luxembourgeois",
+        "Lëtzebuergesch"
+      ]
+    },
+    {
+      "code": "mk",
+      "name": "Macedonian",
+      "aliases": [
+        "Macedonian",
+        "macédonien",
+        "македонски"
+      ]
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "aliases": [
+        "Malagasy",
+        "malgache"
+      ]
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "aliases": [
+        "Malay",
+        "malais",
+        "Melayu"
+      ]
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "aliases": [
+        "Malayalam",
+        "malayalam",
+        "മലയാളം"
+      ]
+    },
+    {
+      "code": "mt",
+      "name": "Maltese",
+      "aliases": [
+        "Maltese",
+        "maltais",
+        "Malti"
+      ]
+    },
+    {
+      "code": "gv",
+      "name": "Manx",
+      "aliases": [
+        "Manx",
+        "manx",
+        "mannois",
+        "Gaelg"
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Māori",
+      "aliases": [
+        "Māori",
+        "Maori",
+        "maori"
+      ]
+    },
+    {
+      "code": "mr",
+      "name": "Marathi",
+      "aliases": [
+        "Marathi",
+        "marathe",
+        "मराठी"
+      ]
+    },
+    {
+      "code": "mh",
+      "name": "Marshallese",
+      "aliases": [
+        "Marshallese",
+        "marshall"
+      ]
+    },
+    {
+      "code": "mn",
+      "name": "Mongolian",
+      "aliases": [
+        "Mongolian",
+        "mongol",
+        "монгол"
+      ]
+    },
+    {
+      "code": "na",
+      "name": "Nauru",
+      "aliases": [
+        "Nauru",
+        "nauruan"
+      ]
+    },
+    {
+      "code": "nv",
+      "name": "Navajo",
+      "aliases": [
+        "Navajo",
+        "Navaho",
+        "navaho"
+      ]
+    },
+    {
+      "code": "ng",
+      "name": "Ndonga",
+      "aliases": [
+        "Ndonga",
+        "ndonga"
+      ]
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "aliases": [
+        "Nepali",
+        "népalais",
+        "नेपाली"
+      ]
+    },
+    {
+      "code": "nd",
+      "name": "North Ndebele",
+      "aliases": [
+        "North Ndebele",
+        "ndébélé du Nord",
+        "isiNdebele"
+      ]
+    },
+    {
+      "code": "se",
+      "name": "Northern Sami",
+      "aliases": [
+        "Northern Sami",
+        "sami du Nord",
+        "davvisámegiella"
+      ]
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "aliases": [
+        "Norwegian",
+        "norvégien",
+        "norsk"
+      ]
+    },
+    {
+      "code": "nb",
+      "name": "Norwegian Bokmål",
+      "aliases": [
+        "Norwegian Bokmål",
+        "norvégien bokmål",
+        "norsk bokmål"
+      ]
+    },
+    {
+      "code": "nn",
+      "name": "Norwegian Nynorsk",
+      "aliases": [
+        "Norwegian Nynorsk",
+        "norvégien nynorsk",
+        "norsk nynorsk"
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "aliases": [
+        "Nyanja",
+        "Chichewa",
+        "Chewa",
+        "chichewa",
+        "chewa",
+        "nyanja"
+      ]
+    },
+    {
+      "code": "oc",
+      "name": "Occitan",
+      "aliases": [
+        "Occitan",
+        "Occitan (post 1500)",
+        "occitan (après 1500)",
+        "occitan"
+      ]
+    },
+    {
+      "code": "or",
+      "name": "Odia",
+      "aliases": [
+        "Odia",
+        "Oriya",
+        "oriya",
+        "ଓଡ଼ିଆ"
+      ]
+    },
+    {
+      "code": "oj",
+      "name": "Ojibwa",
+      "aliases": [
+        "Ojibwa",
+        "ojibwa"
+      ]
+    },
+    {
+      "code": "om",
+      "name": "Oromo",
+      "aliases": [
+        "Oromo",
+        "galla",
+        "Oromoo"
+      ]
+    },
+    {
+      "code": "os",
+      "name": "Ossetic",
+      "aliases": [
+        "Ossetic",
+        "Ossetian",
+        "ossète",
+        "ирон"
+      ]
+    },
+    {
+      "code": "pi",
+      "name": "Pali",
+      "aliases": [
+        "Pali",
+        "pali"
+      ]
+    },
+    {
+      "code": "ps",
+      "name": "Pashto",
+      "aliases": [
+        "Pashto",
+        "Pushto",
+        "pachto",
+        "پښتو"
+      ]
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "aliases": [
+        "Persian",
+        "persan",
+        "فارسی"
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "aliases": [
+        "Polish",
+        "polonais",
+        "polski"
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "aliases": [
+        "Portuguese",
+        "portugais",
+        "português"
+      ]
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "aliases": [
+        "Punjabi",
+        "Panjabi",
+        "pendjabi",
+        "ਪੰਜਾਬੀ"
+      ]
+    },
+    {
+      "code": "qu",
+      "name": "Quechua",
+      "aliases": [
+        "Quechua",
+        "quechua",
+        "Runasimi"
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "aliases": [
+        "Romanian",
+        "Moldavian",
+        "Moldovan",
+        "roumain",
+        "moldave",
+        "română"
+      ]
+    },
+    {
+      "code": "rm",
+      "name": "Romansh",
+      "aliases": [
+        "Romansh",
+        "romanche",
+        "rumantsch"
+      ]
+    },
+    {
+      "code": "rn",
+      "name": "Rundi",
+      "aliases": [
+        "Rundi",
+        "rundi",
+        "Ikirundi"
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "aliases": [
+        "Russian",
+        "russe",
+        "русский"
+      ]
+    },
+    {
+      "code": "sm",
+      "name": "Samoan",
+      "aliases": [
+        "Samoan",
+        "samoan"
+      ]
+    },
+    {
+      "code": "sg",
+      "name": "Sango",
+      "aliases": [
+        "Sango",
+        "sango",
+        "Sängö"
+      ]
+    },
+    {
+      "code": "sa",
+      "name": "Sanskrit",
+      "aliases": [
+        "Sanskrit",
+        "sanskrit",
+        "संस्कृत भाषा"
+      ]
+    },
+    {
+      "code": "sc",
+      "name": "Sardinian",
+      "aliases": [
+        "Sardinian",
+        "sarde",
+        "sardu"
+      ]
+    },
+    {
+      "code": "gd",
+      "name": "Scottish Gaelic",
+      "aliases": [
+        "Scottish Gaelic",
+        "Gaelic",
+        "gaélique",
+        "gaélique écossais",
+        "Gàidhlig"
+      ]
+    },
+    {
+      "code": "sr",
+      "name": "Serbian",
+      "aliases": [
+        "Serbian",
+        "serbe",
+        "српски"
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "aliases": [
+        "Shona",
+        "shona",
+        "chiShona"
+      ]
+    },
+    {
+      "code": "ii",
+      "name": "Sichuan Yi",
+      "aliases": [
+        "Sichuan Yi",
+        "Nuosu",
+        "yi de Sichuan",
+        "ꆈꌠꉙ"
+      ]
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "aliases": [
+        "Sindhi",
+        "sindhi",
+        "سنڌي"
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "aliases": [
+        "Sinhala",
+        "Sinhalese",
+        "singhalais",
+        "සිංහල"
+      ]
+    },
+    {
+      "code": "sk",
+      "name": "Slovak",
+      "aliases": [
+        "Slovak",
+        "slovaque",
+        "slovenčina"
+      ]
+    },
+    {
+      "code": "sl",
+      "name": "Slovenian",
+      "aliases": [
+        "Slovenian",
+        "slovène",
+        "slovenščina"
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "aliases": [
+        "Somali",
+        "somali",
+        "Soomaali"
+      ]
+    },
+    {
+      "code": "nr",
+      "name": "South Ndebele",
+      "aliases": [
+        "South Ndebele",
+        "ndébélé du Sud"
+      ]
+    },
+    {
+      "code": "st",
+      "name": "Southern Sotho",
+      "aliases": [
+        "Southern Sotho",
+        "Sotho, Southern",
+        "sotho du Sud",
+        "Sesotho"
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "aliases": [
+        "Spanish",
+        "Castilian",
+        "espagnol",
+        "castillan",
+        "español"
+      ]
+    },
+    {
+      "code": "su",
+      "name": "Sundanese",
+      "aliases": [
+        "Sundanese",
+        "soundanais",
+        "Basa Sunda"
+      ]
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "aliases": [
+        "Swahili",
+        "swahili",
+        "Kiswahili"
+      ]
+    },
+    {
+      "code": "ss",
+      "name": "Swati",
+      "aliases": [
+        "Swati",
+        "swati"
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "aliases": [
+        "Swedish",
+        "suédois",
+        "svenska"
+      ]
+    },
+    {
+      "code": "ty",
+      "name": "Tahitian",
+      "aliases": [
+        "Tahitian",
+        "tahitien"
+      ]
+    },
+    {
+      "code": "tg",
+      "name": "Tajik",
+      "aliases": [
+        "Tajik",
+        "tadjik",
+        "тоҷикӣ"
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "aliases": [
+        "Tamil",
+        "tamoul",
+        "தமிழ்"
+      ]
+    },
+    {
+      "code": "tt",
+      "name": "Tatar",
+      "aliases": [
+        "Tatar",
+        "tatar",
+        "татар"
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "aliases": [
+        "Telugu",
+        "télougou",
+        "తెలుగు"
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "aliases": [
+        "Thai",
+        "thaï",
+        "ไทย"
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "aliases": [
+        "Tibetan",
+        "tibétain",
+        "བོད་སྐད་"
+      ]
+    },
+    {
+      "code": "ti",
+      "name": "Tigrinya",
+      "aliases": [
+        "Tigrinya",
+        "tigrigna",
+        "ትግርኛ"
+      ]
+    },
+    {
+      "code": "to",
+      "name": "Tongan",
+      "aliases": [
+        "Tongan",
+        "Tonga (Tonga Islands)",
+        "tongan (Îles Tonga)",
+        "lea fakatonga"
+      ]
+    },
+    {
+      "code": "ts",
+      "name": "Tsonga",
+      "aliases": [
+        "Tsonga",
+        "tsonga"
+      ]
+    },
+    {
+      "code": "tn",
+      "name": "Tswana",
+      "aliases": [
+        "Tswana",
+        "tswana",
+        "Setswana"
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "aliases": [
+        "Turkish",
+        "turc",
+        "Türkçe"
+      ]
+    },
+    {
+      "code": "tk",
+      "name": "Turkmen",
+      "aliases": [
+        "Turkmen",
+        "turkmène",
+        "türkmen dili"
+      ]
+    },
+    {
+      "code": "tw",
+      "name": "Twi",
+      "aliases": [
+        "Twi",
+        "twi"
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "aliases": [
+        "Ukrainian",
+        "ukrainien",
+        "українська"
+      ]
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "aliases": [
+        "Urdu",
+        "ourdou",
+        "اردو"
+      ]
+    },
+    {
+      "code": "ug",
+      "name": "Uyghur",
+      "aliases": [
+        "Uyghur",
+        "Uighur",
+        "ouïgour",
+        "ئۇيغۇرچە"
+      ]
+    },
+    {
+      "code": "uz",
+      "name": "Uzbek",
+      "aliases": [
+        "Uzbek",
+        "ouszbek",
+        "o‘zbek"
+      ]
+    },
+    {
+      "code": "ve",
+      "name": "Venda",
+      "aliases": [
+        "Venda",
+        "venda"
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "aliases": [
+        "Vietnamese",
+        "vietnamien",
+        "Tiếng Việt"
+      ]
+    },
+    {
+      "code": "vo",
+      "name": "Volapük",
+      "aliases": [
+        "Volapük",
+        "volapük"
+      ]
+    },
+    {
+      "code": "wa",
+      "name": "Walloon",
+      "aliases": [
+        "Walloon",
+        "wallon"
+      ]
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "aliases": [
+        "Welsh",
+        "gallois",
+        "Cymraeg"
+      ]
+    },
+    {
+      "code": "fy",
+      "name": "Western Frisian",
+      "aliases": [
+        "Western Frisian",
+        "frison occidental",
+        "Frysk"
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "aliases": [
+        "Wolof",
+        "wolof"
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "aliases": [
+        "Xhosa",
+        "xhosa",
+        "IsiXhosa"
+      ]
+    },
+    {
+      "code": "yi",
+      "name": "Yiddish",
+      "aliases": [
+        "Yiddish",
+        "yiddish",
+        "ייִדיש"
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "aliases": [
+        "Yoruba",
+        "yoruba",
+        "Èdè Yorùbá"
+      ]
+    },
+    {
+      "code": "za",
+      "name": "Zhuang",
+      "aliases": [
+        "Zhuang",
+        "Chuang",
+        "zhuang",
+        "chuang",
+        "Vahcuengh"
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "aliases": [
+        "Zulu",
+        "zoulou",
+        "isiZulu"
+      ]
+    }
+  ]
+}
